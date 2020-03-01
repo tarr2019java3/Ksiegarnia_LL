@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Cos",
+    "author": "Jan ",
+    "category": "horror"
+  },
+  {
+    "name": "Coś innego",
+    "author": "Marcin",
+    "category": "dramat"
+  },
+  {
+    "name": "Zycie lwa ",
+    "author": "Mariusz ",
+    "category": "przyrodnicza"
+  },
+  {
+    "name": "czarodziejskie coś",
+    "author": "Krzysztof",
+    "category": "fantastyka"
+  },
+  {
+    "name": "cos jeszcze innego",
+    "author": "Magda",
+    "category": "powiesc"
+  }
+]
